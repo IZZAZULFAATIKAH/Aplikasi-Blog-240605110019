@@ -7,7 +7,7 @@ Deskripsi Aplikasi
 
 Aplikasi Blog adalah sistem manajemen konten (CMS) berbasis web yang dibangun menggunakan framework Laravel. Aplikasi ini terdiri dari dua bagian utama:
 Halaman Administrator (CMS): Pengelolaan artikel, penulis, dan kategori artikel yang hanya dapat diakses oleh penulis yang sudah login.
-Halaman Pengunjung (Publik): Halaman utama yang menampilkan lima artikel terbaru beserta widget kategori, dan halaman detail artikel beserta artikel terkait — dapat diakses tanpa perlu login.
+Halaman Pengunjung (Publik): Halaman utama yang menampilkan lima artikel terbaru beserta widget kategori, dan halaman detail artikel beserta artikel terkait dapat diakses tanpa perlu login.
 Langkah-Langkah Menjalankan Aplikasi Secara Lokal:
 1. Clone repository dari GitHub
    git clone https://github.com/IZZAZULFAATIKAH/Aplikasi-Blog-240605110019.git
